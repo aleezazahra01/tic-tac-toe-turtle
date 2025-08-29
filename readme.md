@@ -1,9 +1,9 @@
-## Tic Tac toe game
-# Installation:
+# Tic Tac toe game
+## Installation:
 ```bash
 pip install turtle
 ```
-# Working:
+## Working:
 1.Takes users names.
 2.Display the Winner
 
