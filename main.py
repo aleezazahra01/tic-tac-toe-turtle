@@ -84,6 +84,8 @@ def boxes(x, y):
 game_end=False
 def check_for_win():
     global winner,game_end
+    #can write this family reunion of if-else by using for loops.
+        
     if board[0][0]==board[0][1]==board[0][2]!="":
         winner=board[0][1]
         game_end=True
